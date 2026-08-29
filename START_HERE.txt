@@ -1,0 +1,15 @@
+HOW TO PREVIEW THE REVISED WEBSITE
+
+1. Right-click the ZIP file and choose Extract All.
+2. Open the extracted Dubrovnik_Travel_Website_Revised folder.
+3. Double-click index.html.
+
+This revised version includes:
+- Tyler's portrait on the About page
+- Stradun street as the home-page hero image
+- A Dubrovnik food section
+- An Old Town alley feature
+- Original photos and video
+- Four linked pages, external CSS, semantic HTML, table, lists, and image credits
+
+Do not open the HTML files while they are still inside the ZIP file.
